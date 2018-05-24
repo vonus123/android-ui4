@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Program Files\Desktop\AndroidStudioProjects2\MyApplication\xmL\app\app.iml" filepath="D:\Program Files\Desktop\AndroidStudioProjects2\MyApplication\xmL\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmL.iml" filepath="$PROJECT_DIR$/xmL.iml" />
+      <module fileurl="file://D:\Program Files\Desktop\AndroidStudioProjects2\MyApplication\xmL2\xmL.iml" filepath="D:\Program Files\Desktop\AndroidStudioProjects2\MyApplication\xmL2\xmL.iml" />
+      <module fileurl="file://E:\demo\AndroidStudioProjects\xmL\xmL2.iml" filepath="E:\demo\AndroidStudioProjects\xmL\xmL2.iml" />
+    </modules>
+  </component>
+</project>
